@@ -41,7 +41,7 @@ The project demonstrates CRUD operations, image upload using Multer, cloud stora
 | 🛠️ Development Tool     | Nodemon    |
 
 
-📁 Project Structure
+# 📁 Project Structure
 
 MOVIE-PROJECT <br>
 
@@ -176,7 +176,9 @@ PORT=5000
 MONGO_URL=your_mongodb_connection_string
 
 CLOUD_NAME=your_cloud_name
+
 CLOUD_API_KEY=your_api_key
+
 CLOUD_API_SECRET=your_api_secret
 
 5️⃣ Run Server
